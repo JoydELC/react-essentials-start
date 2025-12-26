@@ -30,10 +30,9 @@ The project opens at `http://localhost:3000`
 - CSS
 - HTML
 
-## 👤 Author
-
-**JoydELC** - [GitHub](https://github.com/JoydELC)
+## 👤 
+project made following Maximilian Schwarzmüller web teacher from Udemy
 
 ---
 
-💡 *Project created for learning React basics*
+💡 *Project created for improving React basics*
